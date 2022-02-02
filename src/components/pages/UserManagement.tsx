@@ -48,9 +48,10 @@ export const UserManagement: VFC = memo(() => {
         </Wrap>
       )}
       <UserDetailModal
-        selectedUser={selectedUser}
+        user={selectedUser}
         isOpen={isOpen}
         onClose={onClose}
+        isAdmin={loginUser.isAdmin}
       />
     </>
   );
