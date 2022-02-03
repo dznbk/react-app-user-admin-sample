@@ -1,2 +1,1 @@
-# react-app-user-admin-sample
-Created with CodeSandbox
+[Udemy React講座](https://www.udemy.com/course/react_stepup/)にて作成
